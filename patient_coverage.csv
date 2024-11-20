@@ -1,0 +1,6 @@
+Patient_ID,Name,Insurance_ID,Coverage_Percentage
+P001,Shadrack Peter,H123456789,50%
+P002,Alice Johnson,H987654321,75%
+P003,Bob Smith,H456789123,80%
+P004,Emily Davis,H741852963,100%
+P005,John Doe,H963852741,75%

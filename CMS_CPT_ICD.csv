@@ -1,0 +1,6 @@
+CPT_Code,CPT_Description,Condition_Name,ICD10_Code,ICD10_Description,Price
+92012,Eye exam established patient,Dry Eyes,H04.123,Dry eye syndrome of bilateral lacrimal glands,22.59
+92012,Eye exam established patient,Pink Eye,H10.9,Unspecified conjunctivitis,22.59 
+92015,Determination of refractive state,Myopia,H52.13,Myopia bilateral,35.38
+92004,Eye exam new patient comprehensive,General Eye Disease,H57.9,Unspecified disorder of eye and adnexa,39.44
+

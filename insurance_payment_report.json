@@ -1,0 +1,35 @@
+{
+    "Patient_ID": "P001",
+    "Patient_Name": "Shadrack Peter",
+    "Doctor_ID": "D001",
+    "Doctor_Name": "Dr. Martin",
+    "Diagnosis": [
+        {
+            "CPT_Code": "92012",
+            "CPT_Description": "Eye exam established patient",
+            "Condition_Name": "Dry Eyes",
+            "ICD10_Code": "H04.123",
+            "ICD10_Description": "Dry eye syndrome of bilateral lacrimal glands",
+            "Price": 22.59
+        },
+        {
+            "CPT_Code": "92015",
+            "CPT_Description": "Determination of refractive state",
+            "Condition_Name": "Myopia",
+            "ICD10_Code": "H52.13",
+            "ICD10_Description": "Myopia bilateral",
+            "Price": 35.38
+        }
+    ],
+    "Prescribed_Drugs": [
+        "Paracetamol",
+        "Ibuprofen"
+    ],
+    "Payment_Details": {
+        "Payment to Healthcare_Provider": 28.98,
+        "Payment to Pharmacy": 0.0
+    },
+    "Rejections": [
+        "The drug 'Paracetamol' is not available in our database."
+    ]
+}
